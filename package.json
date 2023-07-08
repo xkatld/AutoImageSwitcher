@@ -4,6 +4,7 @@
   "description": "Auto image switcher project",
   "author": "xkatld",
   "scripts": {
-    "start": "php -S localhost:80"
+    "start": "php -S localhost:80",
+    "build": "npm run build"
   }
 }
