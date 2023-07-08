@@ -1,0 +1,12 @@
+{
+  "name": "auto-image-switcher",
+  "version": "1.0.0",
+  "description": "Auto image switcher project",
+  "author": "xkatld",
+  "scripts": {
+    "start": "php -S localhost:80"
+  },
+  "dependencies": {
+    "php": "^7.0.0"
+  }
+}
